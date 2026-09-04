@@ -24,7 +24,7 @@
 ╭─────────────── ✦
 │
 │ 💻 Presentation Design Principles
-│      ├── 🌸
+│      ├── 🌸<a href="./ACTIVITY%201%20-%20GE%201420_ASENTISTA.pdf"> Activity 1</a>
 │
 │ 🩵 Personal Branding
 │      ├── 🌸
