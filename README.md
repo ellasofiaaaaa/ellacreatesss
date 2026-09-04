@@ -1,21 +1,36 @@
 # Ella’s Creative Corner ✨
-Hi! I’m Ella Sofia Asentista, a 2nd-year BS Medical Biology student. 🌸 This repository is a collection of my projects, creative progress, and learning journey throughout my "21st Century IT Skills" course. ✨
-
-
+<p align="center">
+  ☁️ 🌸 🩵 🌸 ☁️
+  <br><br>
+  <strong>Hi! I'm Ella Sofia Asentista</strong>
+  <br>
+  2nd-year BS Medical Biology student
+  <br><br>
+  A collection of my projects, creative progress,
+  <br>
+  and learning journey throughout my
+  <strong>21st Century IT Skills</strong> course.
+  <br><br>
+  ☁️ ── 🌸 ── 🫧 ── 🩵 ── 🌸 ── ☁️
+  
+</p>
+<p align="center">
+  <img src="./portfolio-banner(1).jpg" alt="Ella's Portfolio Banner" width="800">
+</p>
 
 <h2 align="center">✦ ── │ My Creative Projects │ ── ✦</h2>
 
 <pre>
 ╭─────────────── ✦
 │
-│ 🌸 Presentation Design Principles
-│      ├── 📄
+│ 💻 Presentation Design Principles
+│      ├── 🌸
 │
-│ 🎨 Personal Branding
-│      ├── 📄
+│ 🩵 Personal Branding
+│      ├── 🌸
 │
 │ 🫧 Social Media Infographics & Project Documentation
-│      ├── 📄
+│      ├── 🌸
 │
 ╰─────────────── ✦
 </pre>
