@@ -27,8 +27,7 @@
 │      ├── 🌸<a href="./ACTIVITY%201%20-%20GE%201420_ASENTISTA.pdf"> Activity 1</a>
 │
 │ 🩵 Personal Branding
-│      ├── 🌸<a href="./Activity%2.pdf"> Activity 2</a>
-│
+│      ├── 🌸<a href="./Activity%202.pdf"> Activity 2</a>
 │ 🫧 Social Media Infographics & Project Documentation
 │      ├── 🌸
 │
