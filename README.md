@@ -44,5 +44,8 @@
                        ├── 🌸<a href="./PROJECT%20DOCUMENTATION_ASENTISTA.pdf"> Activity 3: Project Documentation</a>           
                        └── 🌸<a href="./INFOGRAPHIC_ASENTISTA.png"> Activity 3: Infographic</a>
   
+                🫧 Google Sheets Group Presentation 
+                       - we presented introductory in using google sheets from concepts to applicatiom.
+   
     ╰─────────────── ✦                                                                                  ✦ ───────────────╯
 <pre>
