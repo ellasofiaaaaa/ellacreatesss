@@ -49,21 +49,21 @@
 
                       ├── 🌸<a href="./Activity-4-Google-Sheets-Presentation.pdf"> Activity 4: Group Presentation</a>
 
-                🫧 Google Sheets Group Presentation 
-                       - we presented introductory in using google sheets from concepts to applicatiom.
+                🫧 AI Tools & prompt Engineering
+                       - In this topic we learned how to maximize the usage of AI through proper prompt engineering
 
-                      ├── 🌸<a href="./Activity-4-Google-Sheets-Presentation.pdf"> Activity 4: Group Presentation</a>
+                      ├── 🌸<a href="./ASENTISTA_Activity 5_ AI Tools Activity.pdf"> Activity 5: AI Tools & Prompt Engineering </a>
 
 
-                🫧 Google Sheets Group Presentation 
-                       - we presented introductory in using google sheets from concepts to applicatiom.
+                🫧 Website Making
+                       - Here, we made a one-page website through an AI website generator
 
-                      ├── 🌸<a href="./Activity-4-Google-Sheets-Presentation.pdf"> Activity 4: Group Presentation</a>
+                      ├── 🌸<a href="./ASENTISTA_ACTIVITY6.pdf"> Activity 6: Website Making</a>
   
-                🫧 Google Sheets Group Presentation 
-                       - we presented introductory in using google sheets from concepts to applicatiom.
+                🫧 Generating resume
+                       - I created a resume using two LLMs and compared them.
 
-                      ├── 🌸<a href="./Activity-4-Google-Sheets-Presentation.pdf"> Activity 4: Group Presentation</a>
+                      ├── 🌸<a href="./ASENTISTA_ACTIVITY7.pdf"> Activity 7: Resume Generating</a>
   
   
     ╰─────────────── ✦                                                                                  ✦ ───────────────╯
