@@ -2,7 +2,7 @@
 # Hello! I'm Ella Sofia M. Asentista
 
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Ella Sofia Asentista - Medical Biology Student" width="100%">
+  <img src="assets/profile banner.png" alt="Ella Sofia Asentista - Medical Biology Student" width="100%">
 </p>
 
 ## About Me
